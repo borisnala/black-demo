@@ -1,0 +1,36 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg[binary]
+asyncpg
+psycopg2-binary
+greenlet
+aiofiles
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+PyJWT
+requests
+pandas
+openpyxl
+reportlab
+stripe
+pydantic
+pydantic_core
+starlette
+email-validator
+bcrypt
+cryptography
+# pillow
+# pytesseract
+# numpy
+# pdf2image
+# Web3
+eth-account
+toolz
+cytoolz
+# AI/LLM related
+openai
+google-generativeai
+litellm
